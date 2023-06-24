@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/memes/static/js/main.f36f8ce9.js",
+    "index.html": "/memes/index.html",
+    "main.f36f8ce9.js.map": "/memes/static/js/main.f36f8ce9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f36f8ce9.js"
+  ]
+}
